@@ -33,7 +33,7 @@ For removing other redirectory virus, the command might work as well. You will n
 
 **Step 4. Relaunch Chrome**
 
-Since many user data is removed in the prev. steps, your google account should be signed out. While relaunching chrome and signing back in with your original account. Please uncheck "Settings" in the chrome sync setting chrome://settings/syncSetup/advanced. Turning on sync for everything might cause the account to be re-infected by the virus.
+Since some user data is removed in the prev. steps, your google account should be signed out. While relaunching chrome and signing back in with your original account, please uncheck "Settings" in the chrome sync setting chrome://settings/syncSetup/advanced. Turning on sync for everything might cause the account to be re-infected by the virus.
 
 
 
