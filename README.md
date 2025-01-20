@@ -7,7 +7,7 @@ Caution: the specific type of google account data loss is NOT verified. The user
 
 **Step 1. Figure out the Chrome user data location**
 
-Find out the directory whhere the user data of chrome is stored, for windows it should be
+Find out the directory where the user data of chrome is stored, for windows it should be
 
 ```shell
 C/Users/<your_windows_user_name>/AppData/Local/Google/Chrome/User Data
