@@ -29,7 +29,7 @@ Replace <the_chrome_user_data_location> with the location from step 1 and run th
 find <the_chrome_user_data_location> -type f -exec grep -q "search-great" {} \; -exec rm -f {} \;
 ```
 
-For removing other redirectory virus, the command might work as well. You will need to update the "search-great" to other keywords. But do not use keywords with many occurances to avoid the removing everything.
+For removing other redirectory virus, the command might work as well. You will need to update the "search-great" to other keywords. But do not use keywords with many occurances to avoid removing everything.
 
 **Step 4. Relaunch Chrome**
 
